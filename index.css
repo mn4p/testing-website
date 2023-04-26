@@ -170,12 +170,15 @@ body {
 @media only screen and (max-width: 767px) { /*Phones*/
 /* SECTION 1 */
 .Section1{
+    display:contents;
     margin-bottom: 8vh;
 }
 .Section1-Left {
-    padding: 5vw;
+    padding: 5vw 2vw 5vw 5vw;
 }
 .Section1-Right {
-    padding-top: 25vh;
+    padding: 5vw 2vw 5vw 5vw;
+    margin-right: 5vw;
 }
 }
+
