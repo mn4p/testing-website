@@ -166,3 +166,16 @@ body {
     display: flex;
     justify-content: center;
 }
+
+@media only screen and (max-width: 767px) { /*Phones*/
+/* SECTION 1 */
+.Section1{
+    margin-bottom: 8vh;
+}
+.Section1-Left {
+    padding: 5vw;
+}
+.Section1-Right {
+    padding-top: 25vh;
+}
+}
